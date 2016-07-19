@@ -452,7 +452,7 @@ input:focus {
 	height: 76px;
 	position: relative;
 	line-height: 45px;
-	padding-top: 23px;
+	padding-top: 5px;
 }
 .current a {
 	color: #e96656 !important;
