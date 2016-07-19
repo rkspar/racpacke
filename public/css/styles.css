@@ -421,7 +421,7 @@ input:focus {
 	overflow: hidden;
 	border: 0;
 	border-radius: 0 !important;
-	text-align: left;
+	text-align: center;
 	-webkit-box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 	        box-shadow: 0px 5px 11px 0px rgba(50, 50, 50, 0.08);
 }
